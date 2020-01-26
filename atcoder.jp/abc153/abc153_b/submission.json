@@ -1,0 +1,12 @@
+{
+	"id": 9735749,
+	"epoch_second": 1580040270,
+	"problem_id": "abc153_b",
+	"contest_id": "abc153",
+	"user_id": "ukiyo",
+	"language": "C++14 (Clang 3.8.0)",
+	"point": 200,
+	"length": 1019,
+	"result": "AC",
+	"execution_time": 73
+}
