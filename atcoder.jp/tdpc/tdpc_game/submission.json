@@ -1,0 +1,12 @@
+{
+	"id": 9818361,
+	"epoch_second": 1580316386,
+	"problem_id": "tdpc_game",
+	"contest_id": "tdpc",
+	"user_id": "ukiyo",
+	"language": "C++14 (Clang 3.8.0)",
+	"point": 3,
+	"length": 1755,
+	"result": "AC",
+	"execution_time": 82
+}
