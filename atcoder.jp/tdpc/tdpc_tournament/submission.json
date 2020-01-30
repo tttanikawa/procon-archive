@@ -1,0 +1,12 @@
+{
+	"id": 9827406,
+	"epoch_second": 1580385249,
+	"problem_id": "tdpc_tournament",
+	"contest_id": "tdpc",
+	"user_id": "ukiyo",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 4,
+	"length": 1750,
+	"result": "AC",
+	"execution_time": 75
+}
