@@ -1,0 +1,12 @@
+{
+	"id": 9881559,
+	"epoch_second": 1580706123,
+	"problem_id": "tdpc_dice",
+	"contest_id": "tdpc",
+	"user_id": "ukiyo",
+	"language": "C++14 (Clang 3.8.0)",
+	"point": 4,
+	"length": 2704,
+	"result": "AC",
+	"execution_time": 158
+}
