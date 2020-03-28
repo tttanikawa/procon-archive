@@ -1,0 +1,12 @@
+{
+	"id": 11251617,
+	"epoch_second": 1585369986,
+	"problem_id": "code_festival_2017_qualc_c",
+	"contest_id": "code-festival-2017-qualc",
+	"user_id": "ukiyo",
+	"language": "Rust (1.15.1)",
+	"point": 400,
+	"length": 155191,
+	"result": "AC",
+	"execution_time": 8
+}
