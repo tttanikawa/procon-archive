@@ -1,0 +1,12 @@
+{
+	"id": 14283022,
+	"epoch_second": 1592135072,
+	"problem_id": "tokiomarine2020_a",
+	"contest_id": "tokiomarine2020",
+	"user_id": "ukiyo",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 2240,
+	"result": "AC",
+	"execution_time": 6
+}
