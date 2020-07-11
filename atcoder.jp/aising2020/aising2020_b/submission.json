@@ -1,0 +1,12 @@
+{
+	"id": 15176646,
+	"epoch_second": 1594473845,
+	"problem_id": "aising2020_b",
+	"contest_id": "aising2020",
+	"user_id": "ukiyo",
+	"language": "Rust (1.42.0)",
+	"point": 200,
+	"length": 2549,
+	"result": "AC",
+	"execution_time": 5
+}
