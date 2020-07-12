@@ -1,0 +1,12 @@
+{
+	"id": 15211280,
+	"epoch_second": 1594570198,
+	"problem_id": "tenka1_2017_c",
+	"contest_id": "tenka1-2017",
+	"user_id": "ukiyo",
+	"language": "Rust (1.42.0)",
+	"point": 300,
+	"length": 3979,
+	"result": "AC",
+	"execution_time": 197
+}
