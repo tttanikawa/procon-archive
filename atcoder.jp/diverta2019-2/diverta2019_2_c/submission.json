@@ -1,0 +1,12 @@
+{
+	"id": 15804503,
+	"epoch_second": 1597045712,
+	"problem_id": "diverta2019_2_c",
+	"contest_id": "diverta2019-2",
+	"user_id": "ukiyo",
+	"language": "Rust (1.42.0)",
+	"point": 500,
+	"length": 3207,
+	"result": "AC",
+	"execution_time": 193
+}
