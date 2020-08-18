@@ -1,0 +1,12 @@
+{
+	"id": 16029351,
+	"epoch_second": 1597769374,
+	"problem_id": "nomura2020_b",
+	"contest_id": "nomura2020",
+	"user_id": "ukiyo",
+	"language": "Rust (1.42.0)",
+	"point": 200,
+	"length": 2523,
+	"result": "AC",
+	"execution_time": 15
+}
