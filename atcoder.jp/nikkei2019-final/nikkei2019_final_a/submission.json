@@ -1,0 +1,12 @@
+{
+	"id": 16459029,
+	"epoch_second": 1599028669,
+	"problem_id": "nikkei2019_final_a",
+	"contest_id": "nikkei2019-final",
+	"user_id": "ukiyo",
+	"language": "Rust (1.42.0)",
+	"point": 200,
+	"length": 2595,
+	"result": "AC",
+	"execution_time": 24
+}
